@@ -1,0 +1,196 @@
+Icon:
+  height: 36
+  crop_width: 16
+  crop_height: 16
+  width: 158
+
+Type:
+  extends: inside
+  y: += 900
+  font: ChunkFive Roman,Sans 6
+  align: center
+  valign: middle
+  height: 36
+  radius: 0
+  width: 36
+
+Acier:
+  extends: Type
+  x: += 7
+
+Combat:
+  extends: Acier
+  x: +=37
+
+Dragon:
+  extends: Combat
+  x: +=37
+
+Eau:
+  extends: Dragon
+  x: +=37
+
+Electrik:
+  extends: Eau
+  x: +=37
+
+Fee:
+  extends: Electrik
+  x: +=37
+
+Feu:
+  extends: Fee
+  x: +=37
+
+Glace:
+  extends: Feu
+  x: +=37
+
+Insecte:
+  extends: Glace
+  x: +=37
+
+Normal:
+  extends: Insecte
+  x: +=37
+
+Plante:
+  extends: Normal
+  x: +=37
+
+Poison:
+  extends: Plante
+  x: +=37
+
+Psy:
+  extends: Poison
+  x: +=37
+
+Roche:
+  extends: Psy
+  x: +=37
+
+Sol:
+  extends: Roche
+  x: +=37
+
+Spectre:
+  extends: Sol
+  x: +=37
+
+Tenebres:
+  extends: Spectre
+  x: +=37
+
+Vol:
+  extends: Tenebres
+  x: +=37
+
+
+AcierIcon:
+  extends:
+    -  Acier
+    - Icon
+  file : "pokemons/icons/Acier.png"
+
+CombatIcon:
+  extends: 
+    -  Combat
+    - Icon
+  file : "pokemons/icons/Combat.png"
+
+DragonIcon:
+  extends: 
+    -  Dragon
+    - Icon
+  file : "pokemons/icons/Dragon.png"
+
+EauIcon:
+  extends: 
+    -  Eau
+    - Icon
+  file : "pokemons/icons/Eau.png"
+
+ElectrikIcon:
+  extends: 
+    -  Electrik
+    - Icon
+  file : "pokemons/icons/Electrik.png"
+
+FeeIcon:
+  extends: 
+    -  Fee
+    - Icon
+  file : "pokemons/icons/Fee.png"
+
+FeuIcon:
+  extends: 
+    -  Feu
+    - Icon
+  file : "pokemons/icons/Feu.png"
+
+GlaceIcon:
+  extends: 
+    -  Glace
+    - Icon
+  file : "pokemons/icons/Glace.png"
+
+InsecteIcon:
+  extends: 
+    -  Insecte
+    - Icon
+  file : "pokemons/icons/Insecte.png"
+
+NormalIcon:
+  extends: 
+    -  Normal
+    - Icon
+  file : "pokemons/icons/Normal.png"
+
+PlanteIcon:
+  extends: 
+    -  Plante
+    - Icon
+  file : "pokemons/icons/Plante.png"
+
+PoisonIcon:
+  extends: 
+    -  Poison
+    - Icon
+  file : "pokemons/icons/Poison.png"
+
+PsyIcon:
+  extends: 
+    -  Psy
+    - Icon
+  file : "pokemons/icons/Psy.png"
+
+RocheIcon:
+  extends: 
+    -  Roche
+    - Icon
+  file : "pokemons/icons/Roche.png"
+
+SolIcon:
+  extends: 
+    -  Sol
+    - Icon
+  file : "pokemons/icons/Sol.png"
+
+SpectreIcon:
+  extends: 
+    -  Spectre
+    - Icon
+  file : "pokemons/icons/Spectre.png"
+
+TenebresIcon:
+  extends: 
+    -  Tenebres
+    - Icon
+  file : "pokemons/icons/Tenebres.png"
+
+VolIcon:
+  extends: 
+    - Vol
+    - Icon
+  file: "pokemons/icons/Vol.png"

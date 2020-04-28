@@ -1,0 +1,55 @@
+
+Title:
+  extends: inside
+  font: ChunkFive Roman,Sans 12
+  color: '#232F23'
+  valign: bottom
+  align: left
+#  spacing: -15
+  x: += 70
+  y: += 30
+  width: 520
+  height: 35
+
+BossTitle:
+  extends: Title
+  x: -= 30
+
+Evolution:
+  extends: Title
+  font: ChunkFive Roman,Sans 5
+  y: += 30
+  x: -= 10
+  valign: top
+  width: 300
+  height: 100
+
+
+Image:
+  extends: Title
+  width: :scale
+  height: 400
+  x: += 0
+  y: += 35
+  border: 1
+  stroke_color: '#232F23'
+
+
+Description:
+  #  extends: description # from hand.yml
+  font: Sans 36
+  color: '#232F23'
+  align: center
+
+Type1:
+  extends: inside
+  color: '#232F23'
+  x: += 10
+  y: += 10
+  width: 40
+  height: 40
+
+Type2:
+  extends: Type1
+  #  extends: snark # from hand.yml
+  y: += 50

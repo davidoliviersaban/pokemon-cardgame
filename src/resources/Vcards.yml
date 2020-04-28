@@ -1,0 +1,121 @@
+
+Stats:
+  extends: Title
+  font: Sans italic 12
+  align: right
+  valign: middle
+  color: '#232F23'
+  x: += 520
+  y: -= 20
+  width: 60
+  height: 60
+
+StatsText:
+  font: Sans italic 7
+  align: right
+  valign: bottom
+  color: '#232F23'
+  width: 120
+  height: 50
+
+Iconable:
+  width: 55
+  height: 55
+  alpha: 0.5
+
+Physical:
+  extends: Iconable
+  file:  "pokemons/icons/Physique.png"
+Special:
+  extends: Iconable
+  file:  "pokemons/icons/Special.png"
+Status:
+  extends: Iconable
+  file:  "pokemons/icons/Statut.png"
+
+Capture:
+  extends: Stats
+CaptureText:
+  extends:
+    - Capture
+    - StatsText
+  x: -= 120
+
+PV:
+  extends: Capture
+  y: += 60
+PVText:
+  extends:
+    - PV
+    - StatsText
+  x: -= 120
+PVIcon:
+  extends: PV
+
+Vitesse:
+  extends: PV
+  y: += 60
+VitesseText:
+  extends:
+    - Vitesse
+    - StatsText
+  x: -= 120
+VitesseIcon:
+  extends: Vitesse
+
+Attaque:
+  extends: Vitesse
+  y: += 60
+AttaqueText:
+  extends:
+    - Attaque
+    - StatsText
+  x: -= 120
+AttaqueIcon:
+  extends:
+    - Attaque
+    - Physical
+  x: -= 45
+
+
+Defense:
+  extends: Attaque
+  y: += 60
+DefenseText:
+  extends:
+    - Defense
+    - StatsText
+  x: -= 120
+DefenseIcon:
+  extends:
+    - Defense
+    - Physical
+  x: -= 45
+
+Att_Spe:
+  extends: Defense
+  y: += 60
+Att_SpeText:
+  extends:
+    - Att_Spe
+    - StatsText
+  x: -= 120
+Att_SpeIcon:
+  extends:
+    - Att_Spe
+    - Special
+  x: -= 45
+
+Def_Spe:
+  extends: Att_Spe
+  y: += 60
+Def_SpeText:
+  extends:
+    - Def_Spe
+    - StatsText
+  x: -= 120
+Def_SpeIcon:
+  extends:
+    - Def_Spe
+    - Special
+  x: -= 45
