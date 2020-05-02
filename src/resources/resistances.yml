@@ -91,106 +91,106 @@ AcierIcon:
   extends:
     -  Acier
     - Icon
-  file : "pokemons/icons/Acier.png"
+  file : "src/resources/icons/Acier.png"
 
 CombatIcon:
   extends: 
     -  Combat
     - Icon
-  file : "pokemons/icons/Combat.png"
+  file : "src/resources/icons/Combat.png"
 
 DragonIcon:
   extends: 
     -  Dragon
     - Icon
-  file : "pokemons/icons/Dragon.png"
+  file : "src/resources/icons/Dragon.png"
 
 EauIcon:
   extends: 
     -  Eau
     - Icon
-  file : "pokemons/icons/Eau.png"
+  file : "src/resources/icons/Eau.png"
 
 ElectrikIcon:
   extends: 
     -  Electrik
     - Icon
-  file : "pokemons/icons/Electrik.png"
+  file : "src/resources/icons/Electrik.png"
 
 FeeIcon:
   extends: 
     -  Fee
     - Icon
-  file : "pokemons/icons/Fee.png"
+  file : "src/resources/icons/Fee.png"
 
 FeuIcon:
   extends: 
     -  Feu
     - Icon
-  file : "pokemons/icons/Feu.png"
+  file : "src/resources/icons/Feu.png"
 
 GlaceIcon:
   extends: 
     -  Glace
     - Icon
-  file : "pokemons/icons/Glace.png"
+  file : "src/resources/icons/Glace.png"
 
 InsecteIcon:
   extends: 
     -  Insecte
     - Icon
-  file : "pokemons/icons/Insecte.png"
+  file : "src/resources/icons/Insecte.png"
 
 NormalIcon:
   extends: 
     -  Normal
     - Icon
-  file : "pokemons/icons/Normal.png"
+  file : "src/resources/icons/Normal.png"
 
 PlanteIcon:
   extends: 
     -  Plante
     - Icon
-  file : "pokemons/icons/Plante.png"
+  file : "src/resources/icons/Plante.png"
 
 PoisonIcon:
   extends: 
     -  Poison
     - Icon
-  file : "pokemons/icons/Poison.png"
+  file : "src/resources/icons/Poison.png"
 
 PsyIcon:
   extends: 
     -  Psy
     - Icon
-  file : "pokemons/icons/Psy.png"
+  file : "src/resources/icons/Psy.png"
 
 RocheIcon:
   extends: 
     -  Roche
     - Icon
-  file : "pokemons/icons/Roche.png"
+  file : "src/resources/icons/Roche.png"
 
 SolIcon:
   extends: 
     -  Sol
     - Icon
-  file : "pokemons/icons/Sol.png"
+  file : "src/resources/icons/Sol.png"
 
 SpectreIcon:
   extends: 
     -  Spectre
     - Icon
-  file : "pokemons/icons/Spectre.png"
+  file : "src/resources/icons/Spectre.png"
 
 TenebresIcon:
   extends: 
     -  Tenebres
     - Icon
-  file : "pokemons/icons/Tenebres.png"
+  file : "src/resources/icons/Tenebres.png"
 
 VolIcon:
   extends: 
     - Vol
     - Icon
-  file: "pokemons/icons/Vol.png"
+  file: "src/resources/icons/Vol.png"

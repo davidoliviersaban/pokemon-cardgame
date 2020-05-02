@@ -19,6 +19,8 @@ Squib::Deck.new(cards: deck["Name"].size,#cards: deck["Name"].size, # cards: 1,#
   fillcolor[9] = "#FFAAAA"
   fillcolor["9"] = "#FFAAAA"
 
+  
+
   rect layout: :bleed
   cut_zone radius: 0.0,  stroke_color: :black
   rect layout: :frame, fill_color: deck["EvolutionId"].map { |id| fillcolor[id] }
@@ -37,12 +39,12 @@ Squib::Deck.new(cards: deck["Name"].size,#cards: deck["Name"].size, # cards: 1,#
 
   category = Hash.new
   %w(Physique Special Statut).each do |key|
-    category[key] = "pokemons/icons/"+key+".png"
+    category[key] = "src/resources/icons/"+key+".png"
   end
 
-  png layout: "Icon", file: deck["Type1"].map{ |img| "pokemons/icons/"+img+".png"}, x: 77, y: 80
-  png layout: "Icon", file: deck["Type2"].map{ |img| "pokemons/icons/"+img+".png"}, x: 77, y: 120
-  png file: deck["Image"].map{ |img| "pokemons/images/"+img}, layout: "Image"
+  png layout: "Icon", file: deck["Type1"].map{ |img| "src/resources/icons/"+img+".png"}, x: 77, y: 80
+  png layout: "Icon", file: deck["Type2"].map{ |img| "src/resources/icons/"+img+".png"}, x: 77, y: 120
+  png file: deck["Image"].map{ |img| "src/resources/images/"+img}, layout: "Image"
 
   text str: deck["Name"], layout: "Title"
   text str: evolutionText, layout: "Evolution"
@@ -58,7 +60,7 @@ Squib::Deck.new(cards: deck["Name"].size,#cards: deck["Name"].size, # cards: 1,#
 
 
   %w(1 2).each do |id|
-    png file: deck["CType"+id].map{ |img| "pokemons/icons/"+img+".png"}, layout: "CType"+id
+    png file: deck["CType"+id].map{ |img| "src/resources/icons/"+img+".png"}, layout: "CType"+id
     png file: deck["Category"+id].map{ |img| category[img]}, layout: "Category"+id
     text str: deck["Dice"+id], layout: "Dice"+id, valign: :middle
     %w(Competence).each do |key|
@@ -73,7 +75,7 @@ Squib::Deck.new(cards: deck["Name"].size,#cards: deck["Name"].size, # cards: 1,#
   end
 
   %w(1 2).each do |id|
-    png file: deck["Type"+id].map{ |img| "pokemons/icons/"+img+".png"}, width: 250, height: :scale, y: 870, x:120+(id.to_i-1)*250
+    png file: deck["Type"+id].map{ |img| "src/resources/icons/"+img+".png"}, width: 250, height: :scale, y: 870, x:120+(id.to_i-1)*250
   end
 
   %w(Acier Combat Dragon Eau Electrik Fee Feu Glace Insecte Normal Plante Poison Psy Roche Sol Spectre Tenebres Vol).each do |key|

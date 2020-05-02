@@ -15,34 +15,35 @@ Squib::Deck.new(cards: deck["Name"].size,
   # deck = xlsx file: 'even-bigger.xlsx'
   text str:deck["Name"].zip(deck["BOSS"]).map{|c,b| b[0..4]+" "+c}, layout: "BossTitle"
 
-  png layout: "Icon", file: deck["Type1"].map{ |img| "pokemons/icons/"+img+".png"}, x: 77, y: 80
-  png layout: "Icon", file: deck["Type2"].map{ |img| "pokemons/icons/"+img+".png"}, x: 77, y: 120
+  png layout: "Icon", file: deck["Type1"].map{ |img| "src/resources/icons/"+img+".png"}, x: 77, y: 80
+  png layout: "Icon", file: deck["Type2"].map{ |img| "src/resources/icons/"+img+".png"}, x: 77, y: 120
 
 #  print deck["Name"].zip(deck["Image"])
 #
-  png file: deck["Image"].map{ |img| "pokemons/images/"+img}, layout: "Image"
+  png file: deck["Image"].map{ |img| "src/resources/images/"+img}, layout: "Image"
 
-  %w(PV Vitesse Attaque Defense Att_Spe Def_Spe Capture).each do |key|
-    text str: key, layout: key+"Icon"
+  %w(Attaque Defense Att_Spe Def_Spe).each do |key|
+    png layout: key+"Icon"
   end
-
-  %w(PV Vitesse Attaque Defense Att_Spe Def_Spe Capture).each do |key|
+  %w(PV Vitesse Attaque Defense Att_Spe Def_Spe).each do |key|
+    text str: key, layout: key+"Text"
     text str: deck[key], layout: key
   end
 
+
   category = Hash.new
   %w(Physique Special Statut).each do |key|
-    category[key] = "pokemons/icons/"+key+".png"
+    category[key] = "src/resources/icons/"+key+".png"
   end
 
   %w(1 2 3 4).each do |id|
-    png file: deck["CType"+id].map{ |img| "pokemons/icons/"+img+".png"}, layout: "CType"+id, height: :scale, y: 489+85*id.to_i
-    png file: deck["Category"+id].map{ |img| category[img]}, layout: "Category"+id, height: 22, width: 22, y: 489+85*id.to_i
-    text str: deck["Dice"+id], layout: "Dice"+id, x: 100, width: 50, valign: :middle
+    png file: deck["CType"+id].map{ |img| "src/resources/icons/"+img+".png"}, layout: "CType"+id
+    png file: deck["Category"+id].map{ |img| category[img]}, layout: "Category"+id
+    text str: deck["Dice"+id], layout: "Dice"+id, valign: :middle
     %w(Competence).each do |key|
       rect layout:key+id
       text str: deck[key+id].map{|txt| txt.gsub("Empty","Competence")}, layout: "Title"+id, stroke_color: :red
-      text str: "Commentaires sur cette super competence qui poutre et dont il faut dire le plus grand bien", layout: "Comments"+id
+      text str: deck[key+id+"Description"], layout: "Comments"+id
     end
     %w(Power Accuracy).each do |key|
       rect layout:key+id
@@ -71,5 +72,5 @@ Squib::Deck.new(cards: deck["Name"].size,
   end
 
 
-  save_png prefix: deck["BOSS"]+deck["Name"]
+  save_png prefix: deck["BOSS"]+deck["Name"], dir: "_boss"
 end

@@ -139,6 +139,42 @@ case object DownloadPokemon1stGeneration extends Download {
 
 }
 
+case object DownloadPokemon7thGeneration extends Download {
+  val pokeList = "https://www.pokepedia.fr/Liste_des_Pok%C3%A9mon_de_la_septi%C3%A8me_g%C3%A9n%C3%A9ration"
+  inoutfilename = "pokemon7eGene"
+
+  def getPokeList = {
+    getFile(pokeList, pokeListInputFile)
+  }
+
+  override def getPokemonList(): Seq[Pokemon] = {
+    var pokemonList = collection.mutable.Set[Pokemon]()
+    if (!new File(pokeListInputFile).exists) getPokeList
+
+    var allLines = ""
+    val pattern1 = """.*<tr><td>(\d+)</td>.*<a[^>]*">([^>]+)</a>.*""".r
+    val patternIdAndNext = """.*<tr><td>([0-9]{1,4})</td>(.*)""".r
+    val patternNameAndNext = """<a[^>]*">([^>]+)</a>(.*)""".r
+
+    Source.fromFile(pokeListInputFile).getLines().foreach { line => allLines += line }
+    allLines.replaceAll("\r|\n", "").split("</tr>").map {
+      line =>
+        line match {
+//          case pattern1(id, name) => pokemonList += new Pokemon(id, "#" + id, name) //println (s"${number} , ${id}, ${name}, $type1")
+          case patternIdAndNext(id, next) =>
+            print(s"Id found: $id")
+            next match {
+              case patternNameAndNext(name,next2) => pokemonList += new Pokemon(id, "#" + id, name)
+              case _ => println(s"$id cannot extract name from: $next")
+            }
+          case _ =>  println(s"Cannot extract id from line: ${line.substring(0,20)}")
+        }
+    }
+    pokemonList.toSeq.sortBy(p => p.number)
+  }
+
+}
+
 
 case object DownloadPokemonAnyGeneration extends Download {
   inoutfilename = "anyGeneration"
@@ -188,12 +224,13 @@ case object DownloadPokemonAnyGeneration extends Download {
 object DoDownload {
 
   def main(args: Array[String]) {
+    DownloadPokemon7thGeneration.writeFile()
     /*
     DownloadResistance.writeFile()
     DownloadPokemon8thGeneration.writeFile()
     DownloadPokemon1stGeneration.writeFile()
      */
-    DownloadPokemonAnyGeneration.writeFile()
+    //DownloadPokemonAnyGeneration.writeFile()
   }
 
 }

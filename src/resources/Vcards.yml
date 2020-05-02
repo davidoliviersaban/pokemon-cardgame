@@ -25,13 +25,13 @@ Iconable:
 
 Physical:
   extends: Iconable
-  file:  "pokemons/icons/Physique.png"
+  file:  "src/resources/icons/Physique.png"
 Special:
   extends: Iconable
-  file:  "pokemons/icons/Special.png"
+  file:  "src/resources/icons/Special.png"
 Status:
   extends: Iconable
-  file:  "pokemons/icons/Statut.png"
+  file:  "src/resources/icons/Statut.png"
 
 Capture:
   extends: Stats
