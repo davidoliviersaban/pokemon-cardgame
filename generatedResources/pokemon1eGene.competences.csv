@@ -1,0 +1,152 @@
+Name,Competence1,Competence2,Competence3,Competence4
+Bulbizarre,Charge,Rugissement,Plante,Poison
+Herbizarre,Charge,Rugissement,Plante,Poison
+Florizarre,Danse-Fleur,Charge,Plante,Poison
+Salamèche,Griffe,Rugissement,Feu,Feu
+Reptincel,Griffe,Rugissement,Feu,Feu
+Dracaufeu,Cru-Aile,Dracogriffe,Feu,Vol
+Carapuce,Charge,Mimi-Queue,Eau,Eau
+Carabaffe,Charge,Mimi-Queue,Eau,Eau
+Tortank,Luminocanon,Charge,Eau,Eau
+Chenipan,Charge,Secretion,Insecte,Insecte
+Chrysacier,Armure,Toile Elek,Insecte,Insecte
+Papilusion,Tornade,Choc Mental,Insecte,Vol
+Aspicot,Dard-Venin,Secretion,Insecte,Poison
+Coconfort,Armure,Mur de Fer,Insecte,Poison
+Dardargnan,Double-Dard,Furie,Insecte,Poison
+Roucool,Charge,Jet de Sable,Normal,Vol
+Roucoups,Charge,Jet de Sable,Normal,Vol
+Roucarnage,Vent Violent,Charge,Normal,Vol
+Rattata,Charge,Mimi-Queue,Normal,Normal
+Rattatac,Grimace,Danse Lames,Normal,Normal
+Piafabec,Picpic,Rugissement,Normal,Vol
+Rapasdepic,Tunnelier,Picore,Normal,Vol
+Abo,Ligotage,Groz'Yeux,Poison,Poison
+Arbok,Machouille,Crocs Givre,Poison,Poison
+Pikachu,Mimi-Queue,Eclair,Électrik,Électrik
+Raichu,Eclair,Mimi-Queue,Électrik,Électrik
+Sabelette,Griffe,Boul'Armure,Sol,Sol
+Sablaireau,Eclate Griffe,Griffe,Sol,Sol
+Nidoran♀,Rugissement,Griffe,Poison,Poison
+Nidorina,Rugissement,Griffe,Poison,Poison
+Nidoqueen,Surpuissance,Griffe,Poison,Sol
+Nidoran♂,Groz'Yeux,Picpic,Poison,Poison
+Nidorino,Groz'Yeux,Picpic,Poison,Poison
+Nidoking,Megacorne,Picpic,Poison,Sol
+Mélofée,Projecteur,Voix Enjoleuse,Fée,Fée
+Mélodelfe,Projecteur,Voix Enjoleuse,Fée,Fée
+Goupix,Flammeche,Mimi-Queue,Feu,Feu
+Feunard,Possessif,Machination,Feu,Feu
+Rondoudou,Berceuse,Boul'Armure,Fée,Normal
+Grodoudou,Damocles,Calinerie,Fée,Normal
+Nosferapti,Vol-Vie,Ultrason,Poison,Vol
+Nosferalto,Grincement,Vol-Vie,Poison,Vol
+Mystherbe,Vol-Vie,Croissance,Plante,Poison
+Ortide,Vol-Vie,Croissance,Plante,Poison
+Rafflesia,Mega-Sangsue,Aromatherapie,Plante,Poison
+Paras,Griffe,Para-Spore,Insecte,Plante
+Parasect,Poison-Croix,Griffe,Insecte,Plante
+Mimitoss,Charge,Entrave,Insecte,Poison
+Aéromite,Tornade,Papillodanse,Insecte,Poison
+Taupiqueur,Jet de Sable,Griffe,Sol,Sol
+Triopikeur,Tourbi-Sable,Fertilisation,Sol,Sol
+Miaouss,Griffe,Rugissement,Normal,Normal
+Persian,Meteores,Calinerie,Normal,Normal
+Psykokwak,Tourniquet,Griffe,Eau,Eau
+Akwakwak,Moi d'Abord,Aqua-Jet,Eau,Eau
+Férosinge,Implore,Griffe,Combat,Combat
+Colossinge,Frenesie,Tout ou Rien,Combat,Combat
+Caninos,Morsure,Hurlement,Feu,Feu
+Arcanin,Crocs Eclair,Morsure,Feu,Feu
+Ptitard,Tourniquet,Pistolet a O,Eau,Eau
+Têtarte,Tourniquet,Pistolet a O,Eau,Eau
+Tartard,Sacrifice,Projection,Combat,Eau
+Abra,Teleport,Choc Psy,Psy,Psy
+Kadabra,Telekinesie,Teleport,Psy,Psy
+Alakazam,Telekinesie,Teleport,Psy,Psy
+Machoc,Balayage,Groz'Yeux,Combat,Combat
+Machopeur,Balayage,Groz'Yeux,Combat,Combat
+Mackogneur,Force,Garde Large,Combat,Combat
+Chétiflor,Fouet Lianes,Croissance,Plante,Poison
+Boustiflor,Fouet Lianes,Croissance,Plante,Poison
+Empiflor,Phytomixeur,Stockage,Plante,Poison
+Tentacool,Dard-Venin,Ultrason,Eau,Poison
+Tentacruel,Copie Type,Dard-Venin,Eau,Poison
+Racaillou,Charge,Boul'Armure,Roche,Sol
+Gravalanch,Charge,Boul'Armure,Roche,Sol
+Grolem,Tacle Lourd,Charge,Roche,Sol
+Ponyta,Rugissement,Charge,Feu,Feu
+Galopa,Furie,Direct Toxik,Feu,Feu
+Ramoloss,Malediction,Baillement,Eau,Psy
+Flagadoss,Repli,Vibra Soin,Eau,Psy
+Magnéti,Charge,Ultrason,Acier,Électrik
+Magnéton,Triplattaque,Elecanon,Acier,Électrik
+Canarticho,Mimique,Rapace,Normal,Vol
+Doduo,Picpic,Rugissement,Normal,Vol
+Dodrio,Mimique,Ultrason,Normal,Vol
+Otaria,Coup d'Boule,Rugissement,Eau,Eau
+Lamantine,Glaciation,Empal'Korne,Eau,Glace
+Tadmorv,Ecras'Face,Gaz Toxik,Poison,Poison
+Grotadmorv,Buee Noire,Pouvoir Lunaire,Poison,Poison
+Kokiyas,Charge,Pistolet a O,Eau,Eau
+Crustabri,Hydrocanon,Exuviation,Eau,Glace
+Fantominus,Hypnose,Lechouille,Poison,Spectre
+Spectrum,Poing Ombre,Hypnose,Poison,Spectre
+Ectoplasma,Entrave,Buee Noire,Poison,Spectre
+Onix,Lance-Boue,Charge,Roche,Sol
+Soporifik,Ecras'Face,Hypnose,Psy,Psy
+Hypnomade,Bouclier,Prescience,Psy,Psy
+Krabby,Lance-Boue,Ecume,Eau,Eau
+Krabboss,Garde Large,Lance-Boue,Eau,Eau
+Voltorbe,Chargeur,Charge,Électrik,Électrik
+Électrode,Magne-Controle,Chargeur,Électrik,Électrik
+Noeunoeuf,Pilonnage,Brouhaha,Plante,Psy
+Noadkoko,Ecrasement,Canon Graine,Plante,Psy
+Osselait,Rugissement,Mimi-Queue,Sol,Sol
+Ossatueur,Rugissement,Mimi-Queue,Sol,Sol
+Kicklee,Double Pied,Contre,Combat,Combat
+Tygnon,Poing Comete,Close Combat,Combat,Combat
+Excelangue,Lechouille,Ultrason,Normal,Normal
+Smogo,Gaz Toxik,Charge,Poison,Poison
+Smogogo,Coup Double,Brouillard,Poison,Poison
+Rhinocorne,Koud'Korne,Mimi-Queue,Roche,Sol
+Rhinoféros,Marto-Poing,Empal'Korne,Roche,Sol
+Leveinard,Boul'Armure,Ecras'Face,Normal,Normal
+Saquedeneu,Vol-Vie,Racines,Plante,Plante
+Kangourex,Poing Comete,Groz'Yeux,Normal,Normal
+Hypotrempe,Ecume,Brouillard,Eau,Eau
+Hypocéan,Hydrocanon,Ecume,Eau,Eau
+Poissirène,Picpic,Mimi-Queue,Eau,Eau
+Poissoroy,Picpic,Mimi-Queue,Eau,Eau
+Stari,Charge,Armure,Eau,Eau
+Staross,Hydrocanon,Projecteur,Eau,Psy
+M. Mime,Champ Brumeux,Feuille Magik,Fée,Psy
+Insécateur,Onde Vide,Vive-Attaque,Insecte,Vol
+Lippoutou,Ecras'Face,Vampibaiser,Glace,Psy
+Élektek,Vive-Attaque,Groz'Yeux,Électrik,Électrik
+Magmar,Puredpois,Groz'Yeux,Feu,Feu
+Scarabrute,Force Poigne,Puissance,Insecte,Insecte
+Tauros,Charge,Mimi-Queue,Normal,Normal
+Magicarpe,Trempette,Charge,Eau,Eau
+Léviator,Morsure,Mania,Eau,Vol
+Lokhlass,Berceuse,Rugissement,Eau,Glace
+Métamorph,Morphing,Normal,Normal
+Évoli,Implore,Coup d'Main,Normal,Normal
+Aquali,Pistolet a O,Coup d'Main,Eau,Eau
+Voltali,Eclair,Coup d'Main,Électrik,Électrik
+Pyroli,Flammeche,Coup d'Main,Feu,Feu
+Porygon,Conversion 2,Charge,Normal,Normal
+Amonita,Constriction,Repli,Eau,Roche
+Amonistar,Picanon,Hydrocanon,Eau,Roche
+Kabuto,Griffe,Armure,Eau,Roche
+Kabutops,Tranche,Tranche-Nuit,Eau,Roche
+Ptéra,Tete de Fer,Crocs Givre,Roche,Vol
+Ronflex,Charge,Boul'Armure,Normal,Normal
+Artikodin,Tornade,Poudreuse,Glace,Vol
+Électhor,Picpic,Eclair,Vol,Électrik
+Sulfura,Cru-Aile,Flammeche,Feu,Vol
+Minidraco,Ligotage,Groz'Yeux,Dragon,Dragon
+Draco,Ligotage,Groz'Yeux,Dragon,Dragon
+Dracolosse,Cru-Aile,Vent Violent,Dragon,Vol
+Mewtwo,Affilage,Vague Psy,Psy,Psy
+Mew,Ecras'Face,Copie Type,Psy,Psy

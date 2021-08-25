@@ -1,0 +1,677 @@
+Name,Competence1,Competence2,Competence3,Competence4
+Centrifugifle,Tenebres,Physique,60,100
+Danse-Plume,Vol,Statut,-1,-1
+Champ Psychique,Psy,Statut,-1,-1
+Stimulant,Normal,Physique,60,100
+Draco-Choc,Dragon,Special,85,100
+Don Naturel,Normal,Physique,-1,100
+Détrempage,Eau,Statut,-1,-1
+Gaz Toxik,Poison,Statut,-1,90
+Malédiction,Spectre,Statut,-1,-1
+Vent Mauvais,Spectre,Special,60,100
+Croque Fort,Tenebres,Physique,80,100
+Puis. Cachée,Normal,Special,60,100
+Halloween,Spectre,Statut,-1,100
+Strido-Son,Acier,Statut,-1,85
+Rafale Psy,Psy,Special,65,100
+Casse-Brique,Combat,Physique,75,100
+Projecteur,Normal,Statut,-1,-1
+Mimique,Vol,Statut,-1,-1
+Piège de Venin,Poison,Statut,-1,100
+Bombe Beurk,Poison,Special,90,100
+Lame Solaire,Plante,Physique,125,100
+Entrave,Normal,Statut,-1,100
+Écho (capacité),Normal,Special,40,100
+Fulmifer,Acier,Physique,-1,100
+Anti-Brume,Vol,Statut,-1,-1
+Poing-Éclair,Electrik,Physique,75,100
+Double Baffe,Dragon,Physique,40,90
+Draco-Rage,Dragon,Special,-1,100
+Vole-Vie,Plante,Special,20,100
+Interversion,Psy,Statut,-1,-1
+Blabladodo,Normal,Statut,-1,-1
+Essorage,Normal,Special,-1,100
+Punition,Tenebres,Physique,-1,100
+Tempête de Sable,Roche,Statut,-1,-1
+Soucigraine,Plante,Statut,-1,100
+Racines,Plante,Statut,-1,-1
+Rancune,Spectre,Statut,-1,-1
+Tourmagik,Psy,Statut,-1,100
+Avale,Normal,Statut,-1,-1
+Recyclage,Normal,Statut,-1,-1
+Frappe Atlas,Combat,Physique,-1,100
+Souvenir,Tenebres,Statut,-1,100
+Ballon Brûlant,Feu,Physique,120,90
+Éclair Fou,Electrik,Physique,90,100
+Psyko,Psy,Special,90,100
+Enroulement,Poison,Statut,-1,-1
+Abri,Normal,Statut,-1,-1
+Pika-Piqué,Vol,Physique,90,95
+Change Éclair,Electrik,Special,70,100
+Rengorgement,Normal,Statut,-1,-1
+Plaie-Croix,Insecte,Physique,80,100
+Psykoud&#39;Boul,Psy,Physique,80,90
+Escalade,Normal,Physique,90,85
+Rayon Lune,Fee,Statut,-1,-1
+Stalagtite,Glace,Physique,25,100
+Déflagration,Feu,Special,110,85
+Noeud&#39;Herbe,Plante,Special,-1,100
+Double Dard,Insecte,Physique,25,100
+Danse Draco,Dragon,Statut,-1,100
+Regard Noir,Normal,Statut,-1,-1
+Voix Enjôleuse,Fee,Special,40,-1
+Boul&#39;Armure,Normal,Statut,-1,-1
+DélugePlasmique,Electrik,Statut,-1,-1
+Vol Magnétik,Electrik,Statut,-1,-1
+Vampipoing,Combat,Physique,75,100
+Vœu Soin,Psy,Statut,-1,-1
+Choc Venin,Poison,Special,65,100
+Coup Croix,Combat,Physique,100,80
+Relâche,Normal,Special,-1,100
+Charge-Os,Sol,Physique,25,90
+Danse-Folle,Normal,Statut,-1,100
+Poing-Karaté,Combat,Physique,50,100
+Rayon Chargé,Electrik,Special,50,90
+Force Cachée,Normal,Physique,70,100
+Boost,Normal,Statut,-1,-1
+Encore,Normal,Statut,-1,100
+Croco Larme,Tenebres,Statut,-1,100
+Vent Violent,Vol,Special,110,70
+Toile,Insecte,Statut,-1,-1
+Vol (capacité),Vol,Physique,90,95
+Copie Type,Normal,Statut,-1,-1
+Léchouille,Spectre,Physique,30,100
+Bomb Beurk,Poison,Special,90,100
+Magné-Contrôle,Electrik,Statut,-1,-1
+Vent Arrière,Vol,Statut,-1,-1
+Ébullilave,Feu,Special,80,100
+Blabla Dodo,Normal,Statut,-1,-1
+Ball&#39;Ombre,Spectre,Special,80,100
+Joute Astrale,Combat,Physique,150,100
+Sonicboom,Normal,Special,-1,90
+Coud&#39;Krâne,Normal,Physique,130,100
+Anti-Soin,Psy,Statut,-1,100
+Vol-Vie,Plante,Special,20,100
+Cauchemar,Spectre,Statut,-1,100
+Crèvecœur,Psy,Physique,60,100
+Forte-Paume,Combat,Physique,60,100
+Boue-Bombe,Sol,Special,65,85
+Furie,Normal,Physique,15,85
+Tomberoche,Roche,Physique,60,95
+Exuviation,Normal,Statut,-1,-1
+Ten-danse,Normal,Statut,-1,100
+Jet-Pierres,Roche,Physique,50,90
+Pistolet à O,Eau,Special,40,100
+Amnésie,Psy,Statut,-1,-1
+Œil Miracle,Psy,Statut,-1,-1
+Effort,Normal,Physique,-1,100
+Cognobidon,Normal,Statut,-1,-1
+Rune Protect,Normal,Statut,-1,-1
+Boule Pollen,Insecte,Special,90,100
+Onde Folie,Spectre,Statut,-1,100
+Change-Côté,Normal,Statut,-1,-1
+Lire-Esprit,Normal,Statut,-1,-1
+Charme (capacité),Fee,Statut,-1,100
+Réveil Forcé,Combat,Physique,70,100
+Toxik,Poison,Statut,-1,90
+Rayon Signal,Insecte,Special,75,100
+Vent Argenté,Insecte,Special,60,100
+Coupe-Vent,Normal,Special,80,100
+Régénération,Normal,Statut,-1,-1
+Éructation,Poison,Special,120,90
+Estocorne,Acier,Physique,70,-1
+Photocopie,Normal,Statut,-1,-1
+Clonage (capacité),Normal,Statut,-1,-1
+Flatterie,Tenebres,Statut,-1,100
+Bouclier Royal,Acier,Statut,-1,100
+Possessif,Psy,Statut,-1,-1
+Tête de Fer,Acier,Physique,80,100
+Atout,Normal,Special,-1,-1
+Force Nature,Normal,Statut,-1,-1
+Griffe,Normal,Physique,40,100
+Poing Dard,Plante,Physique,60,100
+Hâte,Psy,Statut,-1,-1
+Garde-à-Joues,Normal,Statut,-1,-1
+Sommation,Psy,Statut,-1,-1
+Rapace,Vol,Physique,120,100
+Dard Nuée,Insecte,Physique,25,95
+Calcination,Feu,Special,60,100
+Vendetta,Combat,Physique,60,100
+Surpuissance,Combat,Physique,120,100
+Poing Éclair,Electrik,Physique,75,100
+Attraction (capacité),Normal,Statut,-1,100
+Aire de Feu,Feu,Special,80,100
+Lilliput,Normal,Statut,-1,-1
+Eboulement,Roche,Physique,75,90
+Tir de Boue,Sol,Special,55,95
+Dard Mortel,Insecte,Physique,50,100
+Flash,Normal,Statut,-1,100
+Méga-Sangsue,Plante,Special,40,100
+Anneau Hydro,Eau,Statut,-1,-1
+Tourniquet,Eau,Statut,-1,-1
+Canicule (capacité),Feu,Special,95,90
+Poing Boost,Combat,Physique,40,100
+Tonnerre,Electrik,Special,90,100
+Extrasenseur,Psy,Special,80,100
+Koud&#39;Korne,Normal,Physique,65,100
+Purification (capacité),Poison,Statut,-1,-1
+Voile Aurore,Glace,Statut,-1,-1
+Tapotige,Plante,Physique,40,100
+Échange Psy,Psy,Statut,-1,100
+Aqua-Brèche,Eau,Physique,85,100
+Fouet de Feu,Feu,Physique,80,100
+Bang Sonique,Normal,Special,140,100
+Bec Vrille,Vol,Physique,80,100
+Mégaphone,Normal,Special,90,100
+Tourmente,Tenebres,Statut,-1,100
+Explosion,Normal,Physique,250,100
+Balance (capacité),Normal,Statut,-1,-1
+Métronome (capacité),Normal,Statut,-1,-1
+Tunnel,Sol,Physique,80,100
+Lance-Flamme,Feu,Special,90,100
+Pika-Fracas,Electrik,Special,-1,-1
+Lance-Boue,Sol,Statut,-1,-1
+Octoprise,Combat,Statut,-1,100
+Brouhaha,Normal,Special,90,100
+Permuforce,Psy,Statut,-1,-1
+Ball&#39;Glace,Glace,Physique,30,90
+Dépit,Spectre,Statut,-1,100
+Mur Lumière,Psy,Statut,-1,-1
+Picore,Vol,Physique,60,100
+Relais,Normal,Statut,-1,-1
+Faux-Chage,Normal,Physique,40,100
+Cage-Éclair,Electrik,Statut,-1,90
+Aurore (capacité),Normal,Statut,-1,-1
+Mâchouille,Tenebres,Physique,80,100
+Dynamopoing,Combat,Physique,100,50
+Évo-Fabulo,Fee,Special,90,100
+Claquoir,Eau,Physique,35,85
+Draco Météor,Dragon,Special,130,90
+Force,Normal,Physique,80,100
+Tempête Verte,Plante,Special,130,90
+Coup Varia-Type,Normal,Physique,120,100
+Ruse,Normal,Physique,30,100
+Feu Follet,Feu,Statut,-1,85
+Double-Dard,Insecte,Physique,25,100
+Souffle Glacé,Glace,Special,60,90
+Draco-Souffle,Dragon,Special,60,100
+Coud&#39;Boue,Sol,Special,20,100
+Overdrive (capacité),Electrik,Special,80,100
+Danse-Pluie,Eau,Statut,-1,-1
+Avalanche,Glace,Physique,60,100
+Telluriforce,Sol,Special,90,100
+Damoclès,Normal,Physique,120,100
+Ecras&#39;Face,Normal,Physique,40,100
+Après Vous,Normal,Statut,-1,-1
+Poudreuse,Glace,Special,40,100
+Acrobatie,Vol,Physique,55,100
+Électrisation,Electrik,Statut,-1,-1
+Retour,Normal,Physique,-1,100
+Queue de Fer,Acier,Physique,100,75
+Évo-Dynamo,Electrik,Special,90,100
+Clairvoyance,Normal,Statut,-1,-1
+Météores,Normal,Special,60,-1
+Roue Libre,Electrik,Physique,110,100
+Dard-Venin,Poison,Physique,15,100
+Synchropeine,Psy,Special,120,100
+Giga-Sangsue,Plante,Special,75,100
+Poing-Glace,Glace,Physique,75,100
+Triple Pied,Combat,Physique,10,90
+Éboulement,Roche,Physique,75,90
+Dracogriffe,Dragon,Physique,80,100
+Big Splash,Combat,Physique,80,100
+Par Ici,Normal,Statut,-1,-1
+Frotte-Frimousse,Electrik,Physique,20,100
+Blizzard,Glace,Special,110,70
+Embargo,Tenebres,Statut,-1,100
+Hurlement,Normal,Statut,-1,-1
+Chargeur,Electrik,Statut,-1,-1
+Combo-Griffe,Normal,Physique,18,80
+Échange (capacité),Psy,Statut,-1,100
+Souplesse,Normal,Physique,80,75
+Vague Psy,Psy,Special,-1,100
+Acide Malique,Plante,Special,80,100
+Surchauffe,Feu,Special,130,90
+Riposte (capacité),Combat,Physique,-1,100
+Évo-Ténébro,Tenebres,Special,90,100
+Buée Noire,Glace,Statut,-1,-1
+Thérémonie,Normal,Statut,-1,-1
+Tacle Lourd,Acier,Physique,-1,100
+Sacrifice,Combat,Physique,80,80
+Poing Météor,Acier,Physique,90,90
+Poudre Toxik,Poison,Statut,-1,75
+Pied Voltige,Combat,Physique,130,90
+Trépignement,Sol,Physique,75,100
+Tatamigaeshi,Combat,Statut,-1,-1
+Balayette,Combat,Physique,65,100
+Cotogarde,Plante,Statut,-1,-1
+Repos,Psy,Statut,-1,-1
+Dard-Nuée,Insecte,Physique,25,95
+Plaquage,Normal,Physique,85,100
+Frénésie,Normal,Physique,20,100
+Évo-Psycho,Psy,Special,90,100
+Draco Météore,Dragon,Special,130,90
+Reflet Magik,Psy,Statut,-1,-1
+Aboiement,Tenebres,Special,55,95
+Provoc,Tenebres,Statut,-1,100
+Sabotage,Tenebres,Physique,65,100
+Chute Glace,Glace,Physique,85,90
+Eclate-Roc,Combat,Physique,40,100
+Poursuite,Tenebres,Physique,40,100
+Piqué,Vol,Physique,140,90
+Boule Élek,Electrik,Special,-1,100
+Griffe Acier,Acier,Physique,50,95
+Force-Nature,Normal,Statut,-1,-1
+Tranch&#39;Herbe,Plante,Physique,55,95
+Stalactite,Glace,Physique,25,100
+Allègement,Acier,Statut,-1,-1
+Doux Parfum,Normal,Statut,-1,100
+Draco-Météore,Dragon,Special,130,90
+Tunnelier,Sol,Physique,80,95
+Oeil Miracle,Psy,Statut,-1,-1
+Pince-Masse,Eau,Physique,100,90
+Crocs Givre,Glace,Physique,65,95
+Rebondifeu,Feu,Special,70,100
+Attrition,Normal,Physique,70,100
+Balle Graine,Plante,Physique,25,100
+Poliroche,Roche,Statut,-1,100
+Évo-Écolo,Plante,Physique,90,100
+Bélier,Normal,Physique,90,85
+Contre,Combat,Physique,-1,100
+Ampleur,Sol,Physique,-1,100
+Étonnement,Spectre,Physique,30,100
+Passe-Passe,Tenebres,Statut,-1,100
+Picots,Sol,Statut,-1,-1
+Danse Pluie,Eau,Statut,-1,-1
+Poing Comète,Normal,Physique,18,85
+Laser Infinimax,Dragon,Special,160,90
+Branchicrok,Eau,Physique,85,100
+Carapiège,Feu,Special,150,100
+Brume,Glace,Statut,-1,-1
+Aqua-Jet,Eau,Physique,40,100
+Blocage (capacité),Tenebres,Statut,-1,100
+Griffe Ombre,Spectre,Physique,70,100
+Repli,Eau,Statut,-1,-1
+Puissance Cachée,Normal,Special,60,100
+Bulles d&#39;O,Eau,Special,65,100
+Roue de Feu,Feu,Physique,60,100
+Appel Défense,Insecte,Statut,-1,-1
+Dernier Recours,Normal,Physique,140,100
+Prise de Bec,Electrik,Physique,85,100
+Jet de Sable,Sol,Statut,-1,100
+Poudre Fureur,Insecte,Statut,-1,-1
+Harcèlement,Insecte,Special,20,100
+Picanon,Normal,Physique,20,100
+Morphing,Normal,Statut,-1,-1
+Ailes d&#39;Acier,Acier,Physique,70,90
+Feuillage,Plante,Physique,40,100
+Jackpot,Normal,Physique,40,100
+Sécrétion,Insecte,Statut,-1,95
+Champ Herbu,Plante,Statut,-1,-1
+Ultime Bastion,Combat,Statut,-1,-1
+Chgt Vitesse,Acier,Statut,-1,-1
+Flamme Ultime,Feu,Special,130,100
+Vibra-Soin,Psy,Statut,-1,-1
+Aromathérapie,Plante,Statut,-1,-1
+Poinglace,Glace,Physique,75,100
+Lance-Flammes,Feu,Special,90,100
+Évo-Flambo,Feu,Physique,90,100
+Glaciation,Glace,Special,-1,-1
+Assurance,Tenebres,Physique,60,100
+Suc Digestif,Poison,Statut,-1,100
+Zénith,Feu,Statut,-1,-1
+Regard Médusant,Normal,Statut,-1,100
+Acide,Poison,Special,40,100
+Dernier Mot,Tenebres,Statut,-1,100
+Coup Bas,Tenebres,Physique,70,100
+Détricanon,Poison,Physique,120,80
+Grondement,Normal,Statut,-1,-1
+Tour Rapide,Normal,Physique,50,100
+Flammèche,Feu,Special,40,100
+Vibrécaille,Dragon,Special,110,100
+Tir de Précision,Eau,Special,80,100
+Ocroupi,Eau,Special,90,85
+Évo-Congélo,Glace,Special,90,100
+Grêle (capacité),Glace,Statut,-1,-1
+Surf,Eau,Special,90,100
+Dracosouffle,Dragon,Special,60,100
+Flair,Normal,Statut,-1,-1
+Requiem,Normal,Statut,-1,-1
+Ondes Étranges,Electrik,Statut,-1,100
+Laser Glace,Glace,Special,90,100
+Écume,Eau,Special,40,100
+Séduction,Normal,Statut,-1,100
+Poing de Feu,Feu,Physique,75,100
+Brouillard (capacité),Normal,Statut,-1,100
+Prévention,Combat,Statut,-1,-1
+Stockage,Normal,Statut,-1,-1
+Ombre Portée,Spectre,Physique,40,100
+Pika-Sprint,Electrik,Physique,50,100
+Eco-Sphère,Plante,Special,90,100
+Phytomixeur,Plante,Special,65,90
+Luminocanon,Acier,Special,80,100
+Roc-Boulet,Roche,Physique,150,90
+Force Cosmik,Psy,Statut,-1,100
+Croissance,Normal,Statut,-1,-1
+Frustration,Normal,Physique,-1,100
+Aqua Jet,Eau,Physique,40,100
+Nœud Herbe,Plante,Special,-1,100
+Gigotage,Normal,Physique,-1,100
+Acidarmure,Poison,Statut,-1,-1
+Aéropique,Vol,Physique,60,-1
+Soin,Normal,Statut,-1,100
+Piqûre,Insecte,Physique,60,100
+Tranche-Nuit,Tenebres,Physique,70,100
+Uppercut,Normal,Physique,70,100
+Aromathérapi,Plante,Statut,-1,-1
+Camouflage,Normal,Statut,-1,-1
+Tornade,Vol,Special,40,100
+Pisto-Poing,Acier,Physique,40,100
+Gyroballe,Acier,Physique,-1,100
+Tacle Feu,Feu,Physique,-1,100
+Fracass&#39;Tête,Roche,Physique,150,80
+Noeud Herbe,Plante,Special,-1,100
+Lame d&#39;Air,Vol,Special,75,95
+Pika-Splash,Eau,Special,90,100
+Cru-Aile,Vol,Physique,60,100
+Triplattaque,Normal,Special,80,100
+Exécu-Son,Tenebres,Physique,80,100
+Boutefeu,Feu,Physique,120,100
+Croc Fatal,Normal,Physique,-1,90
+Choc Mental,Psy,Special,50,100
+Giga-Impact,Normal,Physique,150,90
+Danse Lames,Normal,Statut,-1,-1
+Crochet Venin,Poison,Physique,50,100
+Cyclone,Normal,Statut,-1,-1
+Glas de Soin,Normal,Statut,-1,-1
+Affûtage,Normal,Statut,-1,-1
+Verrouillage (capacité),Normal,Statut,-1,-1
+Flying Press,Combat,Physique,100,95
+Puissance (capacité),Normal,Statut,-1,-1
+Écras&#39;Face,Normal,Physique,40,100
+Hydroqueue,Eau,Physique,90,90
+Vive-Attaque,Normal,Physique,40,100
+Bomb-Beurk,Poison,Special,90,100
+Ténèbres (capacité),Spectre,Special,-1,100
+Écrasement,Normal,Physique,65,100
+Force Poigne,Normal,Physique,55,100
+Baston,Tenebres,Physique,-1,100
+Hantise,Spectre,Physique,90,100
+Chant Canon,Normal,Special,60,100
+Canon Graine,Plante,Physique,80,100
+Patience,Normal,Physique,-1,-1
+Lame-Feuille,Plante,Physique,90,100
+Danse-Fleur,Plante,Special,120,100
+Rayon Gemme,Roche,Special,80,100
+Fléau,Normal,Physique,-1,100
+Zone Étrange,Psy,Statut,-1,-1
+Séisme,Sol,Physique,100,100
+Copie,Normal,Statut,-1,-1
+Éclat Magique,Fee,Special,80,100
+Ronflement,Normal,Special,50,100
+Aiguisage,Tenebres,Statut,-1,-1
+Poing Ombre,Spectre,Physique,60,-1
+Poudre Dodo,Plante,Statut,-1,75
+Passe-Cadeau,Normal,Statut,-1,-1
+Éco-Sphère,Plante,Special,90,100
+Vibra Soin,Psy,Statut,-1,-1
+Queue-Poison,Poison,Physique,50,100
+Torgnoles,Normal,Physique,15,85
+Picpic,Vol,Physique,35,100
+Paresse,Normal,Statut,-1,-1
+Prélèvem. Destin,Spectre,Statut,-1,100
+Pied Sauté,Combat,Physique,100,95
+Regard Touchant,Fee,Statut,-1,100
+Vœu,Normal,Statut,-1,100
+Colère,Dragon,Physique,120,100
+Prescience,Psy,Special,120,100
+Étincelle,Electrik,Physique,65,100
+Eclat Magique,Fee,Special,80,100
+Feuille Magik,Plante,Special,60,-1
+Bain de Smog,Poison,Special,50,-1
+Pouvoir Lunaire,Fee,Special,95,100
+Synthèse,Plante,Statut,-1,-1
+Piétisol,Sol,Physique,60,100
+Dark Lariat,Tenebres,Physique,85,100
+Bluff,Normal,Physique,40,100
+Éclate Griffe,Normal,Physique,75,95
+Feu d&#39;Enfer,Feu,Special,100,50
+Ombre Nocturne,Spectre,Special,-1,100
+Plumo-Queue,Normal,Physique,25,85
+Bâillement,Normal,Statut,-1,-1
+Yoga,Psy,Statut,-1,-1
+Fertilisation,Sol,Statut,-1,-1
+Évo-Thalasso,Eau,Special,90,100
+Fatal Foudre,Electrik,Special,110,70
+Spore Coton,Plante,Statut,-1,100
+Vibrobscur,Tenebres,Special,80,100
+Lancécrou,Acier,Physique,50,85
+Atterrissage,Vol,Statut,-1,-1
+Poing Glace,Glace,Physique,75,100
+Pied Brûleur,Feu,Physique,85,90
+Vampibaiser,Fee,Special,50,100
+Plongée,Eau,Physique,80,100
+Mania,Normal,Physique,120,100
+Destruction,Normal,Physique,200,100
+Berceuse,Normal,Statut,-1,55
+Mimi-Queue,Normal,Statut,-1,100
+Champ Brumeux,Fee,Statut,-1,-1
+Coqui-Lame,Eau,Physique,75,95
+Pouvoir Antique,Roche,Special,60,100
+Implore,Normal,Physique,60,100
+Coquilame,Eau,Physique,75,95
+Onde Vide,Combat,Special,40,100
+Psycho-Croc,Psy,Physique,85,100
+Goudronnage,Roche,Statut,-1,-1
+Nappage,Fee,Statut,-1,-1
+Rayon Simple,Normal,Statut,-1,100
+Purédpois,Poison,Special,30,70
+Cadeau,Normal,Physique,-1,90
+Vibraqua,Eau,Special,60,100
+Dracocharge,Dragon,Physique,100,75
+Mégafouet,Plante,Physique,120,85
+Rugissement,Normal,Statut,-1,100
+Ultimawashi,Normal,Physique,120,75
+Tourbi-Sable,Sol,Physique,35,85
+Coup d&#39;Jus,Electrik,Special,80,100
+Permuvitesse,Psy,Statut,-1,-1
+Choc Psy,Psy,Special,80,100
+Close-Combat,Combat,Physique,120,100
+Ultrason,Normal,Statut,-1,55
+Siffl&#39;Herbe,Plante,Statut,-1,55
+Lien du Destin,Spectre,Statut,-1,100
+Mégacorne,Insecte,Physique,120,85
+Blockhaus,Poison,Statut,-1,-1
+Pics Toxik,Poison,Statut,-1,-1
+Sheauriken,Eau,Special,15,100
+Tout ou Rien,Combat,Special,-1,100
+Coup d&#39;Boule,Normal,Physique,70,100
+Tranche Nuit,Tenebres,Physique,70,100
+Grincement,Normal,Statut,-1,85
+Air Veinard,Normal,Statut,-1,-1
+Brume Capiteuse,Fee,Statut,-1,-1
+Larme à l&#39;Œil,Normal,Statut,-1,-1
+Fourbette,Tenebres,Physique,80,-1
+Draco-Griffe,Dragon,Physique,80,100
+Détritus,Poison,Special,65,100
+Électacle,Electrik,Physique,120,100
+Saumure,Eau,Special,65,100
+Voeu,Normal,Statut,-1,100
+Châtiment,Spectre,Special,65,100
+Force Ajoutée,Psy,Special,20,100
+Tranch&#39;Herb,Plante,Physique,55,95
+Empal&#39;Korne,Normal,Physique,-1,-1
+Vengeance,Normal,Physique,70,100
+Saisie,Tenebres,Statut,-1,-1
+Tranche,Normal,Physique,70,100
+Vantardise,Normal,Statut,-1,85
+Morsure,Tenebres,Physique,60,100
+Crocs Feu,Feu,Physique,65,95
+Roulade,Roche,Physique,30,90
+Aile d&#39;Acier,Acier,Physique,70,90
+Marto-Poing,Combat,Physique,100,90
+Câlinerie,Fee,Physique,90,90
+Confidence,Normal,Statut,-1,-1
+Lame Sainte,Combat,Physique,90,100
+Tour de Magie,Psy,Statut,-1,100
+Gravité,Psy,Statut,-1,-1
+Cavalerie Lourde,Sol,Physique,95,95
+Garde Florale,Fee,Statut,-1,-1
+Ligotage,Normal,Physique,15,90
+Toxic,Poison,Statut,-1,90
+Poing Météore,Acier,Physique,90,90
+Danse Folle,Normal,Statut,-1,100
+Appel Soins,Insecte,Statut,-1,-1
+Ultimapoing,Normal,Physique,80,85
+Chute Libre,Vol,Physique,60,100
+Onde de Choc (capacité),Electrik,Special,60,-1
+Yama Arashi,Combat,Physique,60,100
+Coup d&#39;Main,Normal,Statut,-1,-1
+Distorsion (capacité),Psy,Statut,-1,-1
+Coupe Psycho,Psy,Physique,70,100
+Protection,Psy,Statut,-1,-1
+Papillodanse,Insecte,Statut,-1,-1
+Nitrocharge,Feu,Physique,50,100
+Astuce Force,Psy,Statut,-1,-1
+Draco-Charge,Dragon,Physique,100,75
+Giga Sangsue,Plante,Special,75,100
+Doux Baiser,Fee,Statut,-1,75
+Cage Éclair,Electrik,Statut,-1,90
+Ancrage,Acier,Physique,80,100
+Façade,Normal,Physique,70,100
+Ouragan,Dragon,Special,40,100
+Spore,Plante,Statut,-1,100
+Gonflette,Combat,Statut,-1,-1
+Furie-Bond,Insecte,Physique,80,100
+Canon Dynamax,Dragon,Special,100,100
+Vampigraine,Plante,Statut,-1,90
+Tempête Florale,Plante,Physique,90,100
+Dégommage,Tenebres,Physique,-1,100
+Ball&#39;Météo,Normal,Special,50,100
+Draco-Queue,Dragon,Physique,60,90
+Arrogance,Tenebres,Physique,20,100
+Guillotine,Normal,Physique,-1,-1
+Imitation,Psy,Statut,-1,-1
+Hydrocanon,Eau,Special,110,80
+Étreinte,Normal,Physique,15,85
+Feu Ensorcelé,Feu,Special,75,100
+Acupression,Normal,Statut,-1,-1
+Engrenage,Acier,Statut,-1,-1
+Aurasphère,Combat,Special,80,-1
+Anti-Air,Roche,Physique,50,100
+Éclats Glace,Glace,Physique,40,100
+Renversement,Tenebres,Statut,-1,-1
+Survinsecte,Insecte,Special,50,100
+Abîme,Sol,Physique,-1,-1
+Danse-Lames,Normal,Statut,-1,-1
+Escarmouche,Insecte,Physique,90,100
+Plénitude,Psy,Statut,-1,-1
+Piège de Roc,Roche,Statut,-1,-1
+Siphon,Eau,Special,35,85
+Pico-Défense,Plante,Statut,-1,-1
+Affilage,Normal,Statut,-1,-1
+Poudre Magique,Psy,Statut,-1,-1
+Rafale Feu,Feu,Special,150,90
+Toile Élek,Electrik,Special,55,95
+Taillade,Insecte,Physique,40,95
+Balayage,Combat,Physique,-1,100
+Maléfice Sylvain,Plante,Statut,-1,100
+Électrikipik,Electrik,Physique,80,100
+Exploforce,Combat,Special,120,70
+Dévorêve,Psy,Special,100,100
+Crocs Éclair,Electrik,Physique,65,95
+Close Combat,Combat,Physique,120,100
+Martobois,Plante,Physique,120,100
+Éruption,Feu,Special,-1,100
+Garde Large,Roche,Statut,-1,-1
+Trempette,Normal,Statut,-1,-1
+Vigilance,Fee,Statut,-1,-1
+Moi d&#39;Abord,Normal,Statut,-1,-1
+Cascade,Eau,Physique,80,100
+Octazooka,Eau,Special,65,85
+Ébullition,Eau,Special,80,100
+Vent Glace,Glace,Special,55,95
+Bouclier (capacité),Psy,Statut,-1,100
+Appel Attak,Insecte,Physique,90,100
+Éclair,Electrik,Special,40,100
+Para-Spore,Plante,Statut,-1,75
+Grimace,Normal,Statut,-1,100
+Cogne,Combat,Physique,15,100
+Nuée de Poudre,Insecte,Statut,-1,100
+Choc Émotionnel,Fee,Physique,75,100
+Partage Force,Psy,Statut,-1,-1
+Lévikinésie,Psy,Statut,-1,-1
+Mach Punch,Combat,Physique,40,100
+Toile Gluante,Insecte,Statut,-1,-1
+Ténacité,Normal,Statut,-1,-1
+Téléport,Psy,Statut,-1,-1
+Groz&#39;Yeux,Normal,Statut,-1,100
+Miroi-Tir,Acier,Special,65,85
+Danse Flamme,Feu,Special,35,85
+Demi-Tour,Insecte,Physique,70,100
+Parabocharge,Electrik,Special,65,100
+Détection,Combat,Statut,-1,-1
+Machination,Tenebres,Statut,-1,100
+Coupe,Normal,Physique,50,95
+Coup Double,Normal,Physique,35,90
+Permugarde,Psy,Statut,-1,-1
+Élécanon,Electrik,Special,120,50
+Vampirisme,Insecte,Physique,80,100
+Armure,Normal,Statut,-1,-1
+Représailles,Tenebres,Physique,50,100
+Direct Toxik,Poison,Physique,80,100
+Mur de Fer,Acier,Statut,-1,-1
+Onde Boréale,Glace,Special,65,100
+Camaraderie,Normal,Statut,-1,-1
+Vol-Force,Plante,Statut,-1,100
+Bombe Acide,Poison,Special,40,100
+Bourdon,Insecte,Special,90,100
+Lame de Roc,Roche,Physique,100,80
+Vent Féérique,Fee,Special,40,100
+Double Pied,Combat,Physique,30,100
+Vitesse Extrême,Normal,Physique,80,100
+Botte Sucrette,Plante,Physique,70,100
+Râle Mâle,Normal,Statut,-1,100
+Fontaine de Vie,Eau,Statut,-1,-1
+Encornebois,Plante,Physique,75,100
+Rebond,Vol,Physique,85,85
+Charge,Normal,Physique,40,100
+Lyophilisation,Glace,Special,70,100
+Fatal-Foudre,Electrik,Special,110,70
+Partage Garde,Psy,Statut,-1,-1
+Barrage,Normal,Statut,-1,-1
+Hypnose,Psy,Statut,-1,60
+Constriction,Normal,Physique,10,100
+Giclédo,Eau,Special,-1,100
+Pouv.Antique,Roche,Special,60,100
+Giga Impact,Normal,Physique,150,90
+Lance-Soleil,Plante,Special,120,100
+Stratopercut,Combat,Physique,85,90
+Reflet,Normal,Statut,-1,-1
+Mitra-Poing,Combat,Physique,150,100
+Mawashi Geri,Combat,Physique,60,85
+Ultralaser,Normal,Special,150,90
+Ten-Danse,Normal,Statut,-1,100
+Abattage,Dragon,Physique,60,100
+Coup-Croix,Combat,Physique,100,80
+Tranch&#39;Air,Vol,Special,60,95
+Chatouille,Normal,Statut,-1,100
+Zone Magique,Psy,Statut,-1,-1
+Corps Perdu,Combat,Physique,70,-1
+Tricherie,Tenebres,Physique,95,100
+À la Queue,Tenebres,Statut,-1,100
+Aria de l&#39;Écume,Eau,Special,90,100
+Force G,Plante,Physique,80,100
+Cradovague,Poison,Special,95,100
+Boule Roc,Roche,Physique,25,90
+Projection,Combat,Physique,60,90
+Tambour Battant,Plante,Physique,80,100
+Dracochoc,Dragon,Special,85,100
+Éclate-Roc,Combat,Physique,40,100
+Larcin,Tenebres,Physique,60,100
+Champ Électrifié,Electrik,Statut,-1,-1
+Voile Miroir,Psy,Special,-1,100
+Draco-Flèches,Dragon,Physique,50,100
+Poison-Croix,Poison,Physique,70,100
+Feinte,Tenebres,Physique,60,-1
+Assistance,Normal,Statut,-1,-1

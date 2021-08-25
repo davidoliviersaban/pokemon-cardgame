@@ -1,9 +1,9 @@
 require 'squib'
 
-deck = Squib.xlsx file: %w(src/resources/Boss.xlsx)
+deck = Squib.xlsx file: 'src/resources/Boss.xlsx'
 
 Squib::Deck.new(cards: deck["Name"].size,
-                layout: %w(src/resources/Vlayout.yml src/resources/infos.yml src/resources/Vcards.yml src/resources/competences.yml src/resources/resistances.yml)) do
+                layout: %w(src/resources/Vlayout.yml src/resources/infos.yml src/resources/Vcards.yml src/resources/boss_competences.yml src/resources/resistances.yml)) do
   rect layout: :bleed
 #  rect layout: 'cut', stroke_color: :black # cut line as defined by TheGameCrafter
   cut_zone radius: 0.0,  stroke_color: :black

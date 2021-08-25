@@ -1,0 +1,401 @@
+Name,Competence1,Competence2,Competence3,Competence4
+Ouistempo,Griffe,Rugissement,Plante,Plante
+Badabouin,Coup Double,Griffe,Plante,Plante
+Gorythmic,Tambour Battant,Coup Double,Plante,Plante
+Flambino,Charge,Rugissement,Feu,Feu
+Lapyro,Charge,Rugissement,Feu,Feu
+Pyrobut,Ballon Brûlant,Ruse,Feu,Feu
+Larméléon,Écras&#39;Face,Rugissement,Eau,Eau
+Arrozard,Charge,Rugissement,Eau,Eau
+Lézargus,Tir de Précision,Acrobatie,Eau,Eau
+Larvadar,Survinsecte,Ultrason,Insecte,Insecte
+Coléodôme,Survinsecte,Mur Lumière,Insecte,Psy
+Astronelle,Survinsecte,Mur Lumière,Insecte,Psy
+Chenipan,Charge,Sécrétion,Insecte,Insecte
+Chrysacier,Armure,Toile Élek,Insecte,Insecte
+Papilusion,Tornade,Choc Mental,Insecte,Vol
+Larvibule,Force Poigne,Sécrétion,Insecte,Insecte
+Chrysapile,Chargeur,Force Poigne,Insecte,Électrik
+Lucanon,Tonnerre,Lame d&#39;Air,Insecte,Électrik
+Hoothoot,Charge,Rugissement,Normal,Vol
+Noarfang,Dévorêve,Piqué,Normal,Vol
+Minisange,Picpic,Groz&#39;Yeux,Vol,Vol
+Bleuseille,Picpic,Groz&#39;Yeux,Vol,Vol
+Corvaillus,Strido-Son,Mur de Fer,Acier,Vol
+Rongourmand,Charge,Mimi-Queue,Normal,Normal
+Rongrigou,Implore,Charge,Normal,Normal
+Poichigeon,Tornade,Rugissement,Normal,Vol
+Colombeau,Tornade,Rugissement,Normal,Vol
+Déflaisan,Tornade,Rugissement,Normal,Vol
+Goupilou,Vive-Attaque,Mimi-Queue,Ténèbres,Ténèbres
+Roublenard,Larcin,Vive-Attaque,Ténèbres,Ténèbres
+Zigzaton,Charge,Rugissement,Normal,Normal
+Linéon,Câlinerie,Fertilisation,Normal,Normal
+Ixon,Blocage (capacité),Coup-Croix,Normal,Ténèbres
+Moumouton,Charge,Rugissement,Normal,Normal
+Moumouflon,Charge,Rugissement,Normal,Normal
+Nénupiot,Étonnement,Rugissement,Eau,Plante
+Lombre,Étonnement,Rugissement,Eau,Plante
+Ludicolo,Étonnement,Rugissement,Eau,Plante
+Grainipiot,Patience,Armure,Plante,Plante
+Pifeuil,Tranch&#39;Herbe,Écras&#39;Face,Plante,Ténèbres
+Tengalice,Tranch&#39;Herbe,Feinte,Plante,Ténèbres
+Khélocrok,Charge,Pistolet à O,Eau,Eau
+Torgamord,Charge,Pistolet à O,Eau,Roche
+Chacripan,Griffe,Rugissement,Ténèbres,Ténèbres
+Léopardus,Griffe,Rugissement,Ténèbres,Ténèbres
+Voltoutou,Charge,Mimi-Queue,Électrik,Électrik
+Fulgudog,Électrisation,Charge,Électrik,Électrik
+Sapereau,Charge,Hâte,Normal,Normal
+Excavarenne,Fertilisation,Piétisol,Normal,Sol
+Chinchidou,Écras&#39;Face,Regard Touchant,Normal,Normal
+Pashmilla,Balle Graine,Boule Roc,Normal,Normal
+Croquine,Trempette,Camaraderie,Plante,Plante
+Candine,Torgnoles,Trempette,Plante,Plante
+Sucreine,Botte Sucrette,Torgnoles,Plante,Plante
+Mystherbe,Vol-Vie,Croissance,Plante,Poison
+Ortide,Vol-Vie,Croissance,Plante,Poison
+Rafflesia,Méga-Sangsue,Aromathérapie,Plante,Poison
+Joliflor,Feuille Magik,Tempête Verte,Plante,Plante
+Rozbouton,Vol-Vie,Croissance,Plante,Poison
+Rosélia,Vol-Vie,Croissance,Plante,Poison
+Roserade,Piège de Venin,Champ Herbu,Plante,Poison
+Goélise,Rugissement,Pistolet à O,Eau,Vol
+Bekipan,Abri,Vent Violent,Eau,Vol
+Statitik,Sécrétion,Vol-Vie,Insecte,Électrik
+Mygavolt,Toile Gluante,Sécrétion,Insecte,Électrik
+Dynavolt,Charge,Cage-Éclair,Électrik,Électrik
+Élecsprint,Champ Électrifié,Crocs Feu,Électrik,Électrik
+Goupix,Flammèche,Mimi-Queue,Feu,Feu
+Feunard,Possessif,Machination,Feu,Feu
+Caninos,Morsure,Hurlement,Feu,Feu
+Arcanin,Crocs Éclair,Morsure,Feu,Feu
+Sorbébé,Stalagtite,Armure,Glace,Glace
+Sorboul,Stalagtite,Armure,Glace,Glace
+Sorbouboul,Glaciation,Lyophilisation,Glace,Glace
+Marcacrin,Charge,Flair,Glace,Sol
+Cochignon,Furie,Pouvoir Antique,Glace,Sol
+Mammochon,Furie,Grimace,Glace,Sol
+Cadoizo,Cadeau,Bec Vrille,Glace,Vol
+Stalgamin,Poudreuse,Groz&#39;Yeux,Glace,Glace
+Oniglali,Lyophilisation,Glaciation,Glace,Glace
+Momartik,Vent Mauvais,Prélèvem. Destin,Glace,Spectre
+Balbuto,Armure,Choc Mental,Psy,Sol
+Kaorine,Ultralaser,Téléport,Psy,Sol
+Tiboudet,Coud&#39;Boue,Lance-Boue,Sol,Sol
+Bourrinos,Coud&#39;Boue,Lance-Boue,Sol,Sol
+Crabicoque,Taillade,Boule Roc,Insecte,Roche
+Crabaraque,Exuviation,Boule Roc,Insecte,Roche
+Gringolem,Écras&#39;Face,Étonnement,Sol,Spectre
+Golemastoc,Tacle Lourd,Cavalerie Lourde,Sol,Spectre
+Munna,Vague Psy,Boul&#39;Armure,Psy,Psy
+Mushana,Champ Psychique,Boul&#39;Armure,Psy,Psy
+Natu,Picpic,Groz&#39;Yeux,Psy,Vol
+Xatu,Lame d&#39;Air,Vent Arrière,Psy,Vol
+Nounourson,Charge,Groz&#39;Yeux,Combat,Normal
+Chelours,Étreinte,Charge,Combat,Normal
+Blizzi,Poudreuse,Groz&#39;Yeux,Glace,Plante
+Blizzaroi,Poing-Glace,Poudreuse,Glace,Plante
+Krabby,Lance-Boue,Écume,Eau,Eau
+Krabboss,Garde Large,Lance-Boue,Eau,Eau
+Axoloto,Pistolet à O,Mimi-Queue,Eau,Sol
+Maraiste,Pistolet à O,Mimi-Queue,Eau,Sol
+Écrapince,Écume,Armure,Eau,Eau
+Colhomard,Météores,Écume,Eau,Ténèbres
+Ningale,Griffe,Armure,Insecte,Sol
+Ninjask,Reflet,Grincement,Insecte,Vol
+Munja,Griffe,Armure,Insecte,Spectre
+Debugant,Charge,Coup d&#39;Main,Combat,Combat
+Kicklee,Double Pied,Contre,Combat,Combat
+Tygnon,Poing Comète,Close Combat,Combat,Combat
+Kapoera,Mawashi Geri,Effort,Combat,Combat
+Pandespiègle,Charge,Groz&#39;Yeux,Combat,Combat
+Pandarbare,Pisto-Poing,Marto-Poing,Combat,Ténèbres
+Tic,Force Poigne,Chargeur,Acier,Acier
+Clic,Force Poigne,Chargeur,Acier,Acier
+Cliticlic,Magné-Contrôle,Engrenage,Acier,Acier
+Apitrini,Doux Parfum,Tornade,Insecte,Vol
+Apireine,Tranche,Dard Mortel,Insecte,Vol
+Achéomire,Charge,Choc Mental,Acier,Psy
+Archéodong,Barrage,Zénith,Acier,Psy
+Tarsal,Rugissement,Choc Mental,Fée,Psy
+Kirlia,Rugissement,Choc Mental,Fée,Psy
+Gardevoir,Pouvoir Lunaire,Force Ajoutée,Fée,Psy
+Gallame,Tranche,Force Ajoutée,Combat,Psy
+Baudrive,Constriction,Lilliput,Spectre,Vol
+Grodrive,Hantise,Constriction,Spectre,Vol
+Tournicoton,Feuillage,Berceuse,Plante,Plante
+Blancoton,Spore Coton,Feuillage,Plante,Plante
+Ceribou,Aurore (capacité),Charge,Plante,Plante
+Ceriflor,Danse-Fleur,Aurore (capacité),Plante,Plante
+Moufouette,Griffe,Puissance (capacité),Poison,Ténèbres
+Moufflair,Lance-Flammes,Griffe,Poison,Ténèbres
+Tritonde,Écume,Rugissement,Eau,Eau
+Batracné,Écume,Rugissement,Eau,Sol
+Crapustule,Acide,Écume,Eau,Sol
+Skelénox,Groz&#39;Yeux,Ombre Nocturne,Spectre,Spectre
+Téraclope,Poing Ombre,Prescience,Spectre,Spectre
+Noctunoir,Poing Ombre,Prescience,Spectre,Spectre
+Machoc,Balayage,Groz&#39;Yeux,Combat,Combat
+Machopeur,Balayage,Groz&#39;Yeux,Combat,Combat
+Mackogneur,Force,Garde Large,Combat,Combat
+Fantominus,Hypnose,Léchouille,Poison,Spectre
+Spectrum,Poing Ombre,Hypnose,Poison,Spectre
+Ectoplasma,Entrave,Buée Noire,Poison,Spectre
+Magicarpe,Trempette,Charge,Eau,Eau
+Léviator,Morsure,Mania,Eau,Vol
+Poissirène,Picpic,Mimi-Queue,Eau,Eau
+Poissoroy,Picpic,Mimi-Queue,Eau,Eau
+Rémoraid,Pistolet à O,Verrouillage (capacité),Eau,Eau
+Octillery,Octazooka,Détricanon,Eau,Eau
+Kokiyas,Charge,Pistolet à O,Eau,Eau
+Crustabri,Hydrocanon,Exuviation,Eau,Glace
+Barpau,Trempette,Charge,Eau,Eau
+Milobellus,Vibraqua,Ligotage,Eau,Eau
+Bargantua,Mimi-Queue,Charge,Eau,Eau
+Froussardine,Pistolet à O,Rugissement,Eau,Eau
+Concombaffe,Armure,Tourniquet,Eau,Eau
+Miamiasme,Écras&#39;Face,Gaz Toxik,Poison,Poison
+Miasmax,Écras&#39;Face,Gaz Toxik,Poison,Poison
+Grillepattes,Flammèche,Brouillard (capacité),Feu,Insecte
+Scolocendre,Feu d&#39;Enfer,Flammèche,Feu,Insecte
+Charbi,Charge,Brouillard (capacité),Roche,Roche
+Wagomine,Nitrocharge,Charge,Feu,Roche
+Monthracite,Goudronnage,Nitrocharge,Feu,Roche
+Taupiqueur,Jet de Sable,Griffe,Sol,Sol
+Triopikeur,Tourbi-Sable,Fertilisation,Sol,Sol
+Rototaupe,Griffe,Lance-Boue,Sol,Sol
+Minotaupe,Empal&#39;Korne,Fertilisation,Acier,Sol
+Nodulithe,Charge,Armure,Roche,Roche
+Géolithe,Rayon Gemme,Charge,Roche,Roche
+Gigalithe,Rayon Gemme,Charge,Roche,Roche
+Charpenti,Écras&#39;Face,Groz&#39;Yeux,Combat,Combat
+Ouvrifier,Écras&#39;Face,Groz&#39;Yeux,Combat,Combat
+Bétochef,Écras&#39;Face,Groz&#39;Yeux,Combat,Combat
+Chovsourir,Choc Mental,Flair,Psy,Vol
+Rhinolove,Choc Mental,Flair,Psy,Vol
+Sonistrelle,Grincement,Ultrason,Dragon,Vol
+Bruyverne,Rayon Lune,Bang Sonique,Dragon,Vol
+Onix,Lance-Boue,Charge,Roche,Sol
+Steelix,Crocs Éclair,Crocs Givre,Acier,Sol
+Embrochet,Picpic,Aqua-Jet,Eau,Eau
+Hastacuda,Exécu-Son,Picpic,Eau,Eau
+Miaouss,Griffe,Rugissement,Normal,Normal
+Berserkatt,Tête de Fer,Fulmifer,Acier,Acier
+Persian,Météores,Câlinerie,Normal,Normal
+Crèmy,Charge,Brume Capiteuse,Fée,Fée
+Charmilly,Nappage,Charge,Fée,Fée
+Bombydou,Vol-Vie,Vent Féérique,Fée,Insecte
+Rubombelle,Boule Pollen,Vol-Vie,Fée,Insecte
+Grindur,Charge,Armure,Acier,Plante
+Noacier,Mégafouet,Escalade,Acier,Plante
+Pitrouille,Tourmagik,Étonnement,Plante,Spectre
+Banshitrouye,Explosion,Hantise,Plante,Spectre
+Pichu,Éclair,Charme (capacité),Électrik,Électrik
+Pikachu,Mimi-Queue,Éclair,Électrik,Électrik
+Raichu,Éclair,Mimi-Queue,Électrik,Électrik
+Évoli,Implore,Coup d&#39;Main,Normal,Normal
+Aquali,Pistolet à O,Coup d&#39;Main,Eau,Eau
+Voltali,Éclair,Coup d&#39;Main,Électrik,Électrik
+Pyroli,Flammèche,Coup d&#39;Main,Feu,Feu
+Mentali,Choc Mental,Coup d&#39;Main,Psy,Psy
+Noctali,Poursuite,Coup d&#39;Main,Ténèbres,Ténèbres
+Phyllali,Tranch&#39;Herbe,Coup d&#39;Main,Plante,Plante
+Givrali,Vent Glace,Coup d&#39;Main,Glace,Glace
+Nymphali,Vent Féérique,Voix Enjôleuse,Fée,Fée
+Verpom,Repli,Étonnement,Dragon,Plante
+Pomdrapi,Repli,Étonnement,Dragon,Plante
+Dratatin,Repli,Étonnement,Dragon,Plante
+Psystigri,Griffe,Groz&#39;Yeux,Psy,Psy
+Mistigrix,Prévention,Regard Noir,Psy,Psy
+Sucroquin,Doux Parfum,Charge,Fée,Fée
+Cupcanaille,Doux Parfum,Charge,Fée,Fée
+Fluvetin,Doux Parfum,Vent Féérique,Fée,Fée
+Cocotine,Vibra Soin,Brume Capiteuse,Fée,Fée
+Araqua,Tourniquet,Écume,Eau,Insecte
+Tarenbulle,Garde Large,Détrempage,Eau,Insecte
+Okéoké,Trempette,Charme (capacité),Psy,Psy
+Qulbutoké,Riposte (capacité),Voile Miroir,Psy,Psy
+Canarticho,Mimique,Rapace,Normal,Vol
+Palarticho,Mur de Fer,Escarmouche,Combat,Combat
+Loupio,Écume,Ultrason,Eau,Électrik
+Lanturn,Stockage,Avale,Eau,Électrik
+Cradopaud,Étonnement,Coud&#39;Boue,Combat,Poison
+Coatox,Étonnement,Coud&#39;Boue,Combat,Poison
+Baggiguane,Groz&#39;Yeux,Coup d&#39;Boule,Combat,Ténèbres
+Baggaïd,Groz&#39;Yeux,Coup d&#39;Boule,Combat,Ténèbres
+Limonde,Abîme,Fléau,Sol,Électrik
+Caratroc,Toile Gluante,Repli,Insecte,Roche
+Barloche,Coud&#39;Boue,Lance-Boue,Eau,Sol
+Barbicha,Mania,Éructation,Eau,Sol
+Sancoki,Coud&#39;Boue,Lance-Boue,Eau,Eau
+Tritosor,Coud&#39;Boue,Lance-Boue,Eau,Sol
+Sovkipou,Survinsecte,Jet de Sable,Eau,Insecte
+SarmuraÏ,Escarmouche,Survinsecte,Eau,Insecte
+Opermine,Exuviation,Griffe,Eau,Roche
+Golgopathe,Coud&#39;Krâne,Lame de Roc,Eau,Roche
+Corayon,Charge,Armure,Eau,Roche
+Corayôme,Requiem,Charge,Spectre,Spectre
+Grimalin,Confidence,Bluff,Fée,Ténèbres
+Fourbelin,Fourbette,Morsure,Fée,Ténèbres
+Angoliath,Choc Émotionnel,Fourbette,Fée,Ténèbres
+Bibichut,Choc Mental,Camaraderie,Psy,Psy
+Chapotus,Centrifugifle,Choc Mental,Psy,Psy
+Sorcilence,Coupe Psycho,Centrifugifle,Fée,Psy
+Tritox,Gaz Toxik,Griffe,Feu,Poison
+Malamandre,Séduction,Entrave,Feu,Poison
+Scalpion,Griffe,Groz&#39;Yeux,Acier,Ténèbres
+Scalproie,Guillotine,Tête de Fer,Acier,Ténèbres
+Judokrak,Tatamigaeshi,Étreinte,Combat,Combat
+Karaclée,Éclate-Roc,Groz&#39;Yeux,Combat,Combat
+Smogo,Gaz Toxik,Charge,Poison,Poison
+Smogogo,Coup Double,Brouillard (capacité),Poison,Poison
+Manzaï,Croco Larme,Photocopie,Roche,Roche
+Simularbre,Souplesse,Martobois,Roche,Roche
+Mélo,Écras&#39;Face,Charme (capacité),Fée,Fée
+Mélofée,Projecteur,Voix Enjôleuse,Fée,Fée
+Mélodelfe,Projecteur,Voix Enjôleuse,Fée,Fée
+Togepi,Rugissement,Charme (capacité),Fée,Fée
+Togetic,Feuille Magik,Rugissement,Fée,Vol
+Togekiss,Après Vous,Piqué,Fée,Vol
+Goinfrex,Dernier Recours,Recyclage,Normal,Normal
+Ronflex,Charge,Boul&#39;Armure,Normal,Normal
+Doudouvet,Vol-Vie,Vent Féérique,Fée,Plante
+Farfaduvet,Croissance,Vampigraine,Fée,Plante
+Rhinocorne,Koud&#39;Korne,Mimi-Queue,Roche,Sol
+Rhinoféros,Marto-Poing,Empal&#39;Korne,Roche,Sol
+Rhinastoc,Marto-Poing,Roc-Boulet,Roche,Sol
+Scrutella,Écras&#39;Face,Choc Mental,Psy,Psy
+Mesmérella,Écras&#39;Face,Choc Mental,Psy,Psy
+Sidérella,Écras&#39;Face,Choc Mental,Psy,Psy
+Nucléos,Vague Psy,Protection,Psy,Psy
+Méios,Vague Psy,Protection,Psy,Psy
+Symbios,Uppercut,Vague Psy,Psy,Psy
+Carabing,Picpic,Groz&#39;Yeux,Insecte,Insecte
+Lançargot,Damoclès,Dard Mortel,Acier,Insecte
+Escargaume,Vol-Vie,Acide,Insecte,Insecte
+Limaspeed,Sheauriken,Tout ou Rien,Insecte,Insecte
+Lewsor,Choc Mental,Rugissement,Psy,Psy
+Neitram,Champ Psychique,Zone Étrange,Psy,Psy
+Polarhume,Rugissement,Poudreuse,Glace,Glace
+Polagriffe,Chute Glace,Glaciation,Glace,Glace
+Furaiglon,Picpic,Groz&#39;Yeux,Normal,Vol
+Gueriaigle,Surpuissance,Mania,Normal,Vol
+Vostourno,Tornade,Groz&#39;Yeux,Ténèbres,Vol
+Vaututrice,Charge-Os,Mimique,Ténèbres,Vol
+Rapion,Morsure,Dard-Venin,Insecte,Poison
+Drascore,Crocs Éclair,Crocs Givre,Poison,Ténèbres
+Funécire,Flammèche,Étonnement,Feu,Spectre
+Mélancolux,Flammèche,Étonnement,Feu,Spectre
+Lugulabre,Balance (capacité),Purédpois,Feu,Spectre
+Sepiatop,Charge,Picpic,Psy,Ténèbres
+Sepiatroce,Contre,Charge,Psy,Ténèbres
+Farfuret,Griffe,Groz&#39;Yeux,Glace,Ténèbres
+Dimoret,Embargo,Vendetta,Glace,Ténèbres
+Ténéfix,Groz&#39;Yeux,Griffe,Spectre,Ténèbres
+Mysdibule,Câlinerie,Tête de Fer,Acier,Fée
+Maracachi,Pico-Défense,Cotogarde,Plante,Plante
+Cryptéro,Tornade,Œil Miracle,Psy,Vol
+Riolu,Clairvoyance,Vive-Attaque,Combat,Combat
+Lucario,Aurasphère,Affilage,Acier,Combat
+Chartor,Flammèche,Purédpois,Feu,Feu
+Mimiqui,Martobois,Trempette,Fée,Spectre
+Charibari,Charge,Rugissement,Acier,Acier
+Pachyradjah,Tacle Lourd,Charge,Acier,Acier
+Qwilfish,Dard Mortel,Hydrocanon,Eau,Poison
+Viskuse,Écume,Tourniquet,Eau,Spectre
+Moyade,Giclédo,Essorage,Eau,Spectre
+Vorastérie,Dard-Venin,Picpic,Eau,Poison
+Prédastérie,Blockhaus,Dard-Venin,Eau,Poison
+Nigosier,Éructation,Picpic,Eau,Vol
+Toxizap,Éructation,Larme à l&#39;Œil,Poison,Électrik
+Salarsen,Étincelle,Ondes Étranges,Poison,Électrik
+Dunaja,Ligotage,Jet de Sable,Sol,Sol
+Dunaconda,Coud&#39;Krâne,Ligotage,Sol,Sol
+Hippopotas,Charge,Jet de Sable,Sol,Sol
+Hippodocus,Crocs Givre,Crocs Feu,Sol,Sol
+Fermite,Strido-Son,Guillotine,Acier,Insecte
+Aflamanoir,Aiguisage,Charge,Feu,Feu
+Galvaran,Écras&#39;Face,Mimi-Queue,Normal,Électrik
+Iguolta,Ondes Étranges,Électrisation,Normal,Électrik
+Brutalibré,Détection,Charge,Combat,Vol
+Kraknoix,Jet de Sable,Morsure,Sol,Sol
+Vibraninf,Dracosouffle,Jet de Sable,Dragon,Sol
+Libégon,Dracogriffe,Dracosouffle,Dragon,Sol
+Coupenotte,Griffe,Groz&#39;Yeux,Dragon,Dragon
+Incisache,Griffe,Groz&#39;Yeux,Dragon,Dragon
+Tranchodon,Colère,Griffe,Dragon,Dragon
+Tutafeh,Étonnement,Abri,Spectre,Spectre
+Tutétékri,Griffe Ombre,Grimace,Sol,Spectre
+Tutankafer,Grimace,Étonnement,Spectre,Spectre
+Monorpale,Charge,Danse-Lames,Acier,Spectre
+Dimoclès,Charge,Danse-Lames,Acier,Spectre
+Exagide,Ombre Portée,Taillade,Acier,Spectre
+Ponyta,Rugissement,Charge,Feu,Feu
+Galopa,Furie,Direct Toxik,Feu,Feu
+Théffroi,Étonnement,Repli,Spectre,Spectre
+Polthégeist,Thérémonie,Vol-Force,Spectre,Spectre
+Wimessir,Force Ajoutée,Camaraderie,Normal,Psy
+Brocélôme,Charge,Onde Folie,Plante,Spectre
+Desséliande,Griffe Ombre,Encornebois,Plante,Spectre
+Spododo,Vol-Vie,Étonnement,Fée,Plante
+Lampignon,Vol-Vie,Étonnement,Fée,Plante
+Gouroutan,Choc Mental,Après Vous,Normal,Psy
+Quartermac,Charge,Groz&#39;Yeux,Combat,Combat
+Morpeko,Éclair,Mimi-Queue,Ténèbres,Électrik
+Hexadron,Charge,Abri,Combat,Combat
+Draïeul,Camaraderie,Écho (capacité),Dragon,Normal
+Boumata,Flammèche,Charge,Dragon,Feu
+Togedemaru,Charge,Éclair,Acier,Électrik
+Frissonille,Poudreuse,Survinsecte,Glace,Insecte
+Beldeneige,Vent Glace,Poudreuse,Glace,Insecte
+Poulpaf,Groz&#39;Yeux,Éclate-Roc,Combat,Combat
+Krakos,Octoprise,Octazooka,Combat,Combat
+Wattapik,Picpic,Éclair,Électrik,Électrik
+Babimanta,Charge,Écume,Eau,Vol
+Démanta,Rafale Psy,Balle Graine,Eau,Vol
+Wailmer,Trempette,Rugissement,Eau,Eau
+Wailord,Détrempage,Râle Mâle,Eau,Eau
+Grelaçon,Charge,Morsure,Glace,Glace
+Séracrawl,Plaquage,Garde Large,Glace,Glace
+Sinistrail,Passe-Passe,Vol-Vie,Plante,Spectre
+Lokhlass,Berceuse,Rugissement,Eau,Glace
+Séléroc,Rayon Gemme,Choc Psy,Psy,Roche
+Solaroc,Boutefeu,Charge,Psy,Roche
+Mime Jr.,Chatouille,Bouclier (capacité),Fée,Psy
+M. Mime,Champ Brumeux,Feuille Magik,Fée,Psy
+M. Glaquette,Croco Larme,Paresse,Glace,Psy
+Darumarond,Charge,Roulade,Feu,Feu
+Darumacho,Marto-Poing,Charge,Glace,Glace
+Dolman,Jet-Pierres,Barrage,Roche,Roche
+Bekaglaçon,Poudreuse,Charge,Glace,Glace
+Duralugon,Griffe Acier,Groz&#39;Yeux,Acier,Dragon
+Motisma,Coup d&#39;Jus,Chargeur,Electrik,Spectre
+Métamorph,Morphing,Normal,Normal
+Galvagon,Charge,Éclair,Dragon,Électrik
+Galvagla,Poudreuse,Éclair,Glace,Électrik
+Hydragon,Charge,Pistolet à O,Dragon,Eau
+Hydragla,Poudreuse,Pistolet à O,Eau,Glace
+Salamèche,Griffe,Rugissement,Feu,Feu
+Reptincel,Griffe,Rugissement,Feu,Feu
+Dracaufeu,Cru-Aile,Dracogriffe,Feu,Vol
+Type:0,Charge,Frénésie,Normal,Normal
+Silvallié,Coup Varia-Type,Anti-Soin,Normal,Normal
+Embrylex,Morsure,Groz&#39;Yeux,Roche,Sol
+Ymphect,Morsure,Groz&#39;Yeux,Roche,Sol
+Tyranocif,Crocs Éclair,Crocs Givre,Roche,Ténèbres
+Solochi,Charge,Draco-Rage,Dragon,Ténèbres
+Diamat,Coup Double,Draco-Rage,Dragon,Ténèbres
+Trioxhydre,Colère,Mégaphone,Dragon,Ténèbres
+Mucuscule,Charge,Écume,Dragon,Dragon
+Colimucus,Charge,Écume,Dragon,Dragon
+Muplodocus,Hydroqueue,Colère,Dragon,Dragon
+Bébécaille,Charge,Groz&#39;Yeux,Dragon,Dragon
+Écaïd,Stratopercut,Allègement,Combat,Dragon
+Ékaïser,Vibrécaille,Cognobidon,Combat,Dragon
+Fantyrm,Étonnement,Harcèlement,Dragon,Spectre
+Dispareptil,Dracochoc,Coup Bas,Dragon,Spectre
+Lanssorien,Draco-Flèches,Dracosouffle,Dragon,Spectre
+Zacian,Lame Sainte,Prévention,Acier,Fee
+Zamazenta,Fulmifer,Garde Large,Acier,Combat
+Éthernatos,Queue-Poison,Onde Folie,Dragon,Poison

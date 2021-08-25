@@ -1,6 +1,6 @@
 require 'squib'
 
-deck = Squib.xlsx file: %w(src/resources/AllPokemons.xlsx)
+deck = Squib.xlsx file: 'src/resources/AllPokemons.xlsx'
 
 Squib::Deck.new(cards: deck["Name"].size,#cards: deck["Name"].size, # cards: 1,#
                 layout: %w(src/resources/Vlayout.yml src/resources/infos.yml src/resources/Vcards.yml src/resources/competences.yml src/resources/resistances.yml)) do

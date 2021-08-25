@@ -1,6 +1,6 @@
 require 'squib'
 
-deck = Squib.xlsx file: %w(src/resources/AllCompetences.xlsx)
+deck = Squib.xlsx file: 'src/resources/AllCompetences.xlsx'
 
 Squib::Deck.new(cards: deck["Competence"].size,
                 layout: %w(src/resources/VHalfCard.yml),

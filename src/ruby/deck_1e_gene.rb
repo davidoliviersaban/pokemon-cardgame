@@ -4,10 +4,10 @@ require 'squib'
 #infos = Squib.csv file: %w(generatedResources/pokemon1eGene.infos.csv)
 #competences = Squib.csv file: %w(generatedResources/pokemon1eGene.competences.csv)
 #resistances = Squib.csv file: %w(generatedResources/pokemon1eGene.resistances.csv)
-deck = Squib.csv file: %w(generatedResources/pokemon8eGene.simplified.csv)
-infos = Squib.csv file: %w(generatedResources/pokemon8eGene.infos.csv)
-competences = Squib.csv file: %w(generatedResources/pokemon8eGene.competences.csv)
-resistances = Squib.csv file: %w(generatedResources/pokemon8eGene.resistances.csv)
+deck = Squib.csv file: 'generatedResources/pokemon8eGene.simplified.csv'
+infos = Squib.csv file: 'generatedResources/pokemon8eGene.infos.csv'
+competences = Squib.csv file: 'generatedResources/pokemon8eGene.competences.csv'
+resistances = Squib.csv file: 'generatedResources/pokemon8eGene.resistances.csv'
 
 Squib::Deck.new(cards: deck["Name"].size,
                 layout: %w(src/resources/Vlayout.yml src/resources/infos.yml src/resources/Vcards.yml src/resources/competences.yml src/resources/resistances.yml)) do
