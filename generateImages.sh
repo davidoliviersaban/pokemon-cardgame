@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-rm -rf _cards* _board _output
+rm -rf _cards* _board _output _boss
 ruby src/ruby/deck.rb
 ruby src/ruby/boss_1e_gene.rb
 cd ../printableCardsAppender
